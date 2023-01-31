@@ -1,0 +1,35 @@
+.wrapper {
+    width: 100vw;
+}
+
+.container {
+    width: 100%;
+    background-color: black;
+    display: flex;
+    height: 70px;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+
+.col3>a {
+    border: none;
+    background-color: white;
+    padding: 12px 25px;
+    border-radius: 50px;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.col2>a {
+    color: red;
+    text-decoration: none;
+}
+
+.col1 {
+    font-size: 22px;
+
+}
+
