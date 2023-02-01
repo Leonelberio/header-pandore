@@ -12,7 +12,7 @@
     color: white;
 }
 
-.col3>a {
+.col4>a {
     border: none;
     background-color: white;
     padding: 12px 25px;
@@ -23,7 +23,7 @@
 
 
 
-.col2>a {
+.col3>a {
     color: red;
     text-decoration: none;
 }
@@ -31,5 +31,8 @@
 .col1 {
     font-size: 22px;
 
+}
+
+.col2{
 }
 
