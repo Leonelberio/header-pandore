@@ -7,6 +7,8 @@ body {
 }
 
 .container {
+
+
     width: 100%;
     background-color: black;
     display: flex;
@@ -23,6 +25,8 @@ body {
     border-radius: 50px;
     text-decoration: none;
     color: black;
+    font-size: .8rem;
+
 }
 
 
@@ -30,10 +34,12 @@ body {
 .col3>a {
     color: greenyellow;
     text-decoration: none;
+    font-size: .8rem;
+
 }
 
 .col1 {
-    font-size: 22px;
+
 
 }
 
