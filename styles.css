@@ -7,8 +7,6 @@ body {
 }
 
 .container {
-
-
     width: 100%;
     background-color: black;
     display: flex;
@@ -39,7 +37,8 @@ body {
 }
 
 .col1 {
-
+    font-size: 1.2rem;
+    font-weight: 500;
 
 }
 
@@ -50,8 +49,9 @@ body {
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
   .container{
+    width: 100%;
     flex-direction: column;
-     height: 140px;
+     height: 150px;
      justify-content: space-around;
      padding: 18px;
      gap: 20px;
